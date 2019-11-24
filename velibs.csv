@@ -1,0 +1,1393 @@
+station_id,station_name,nb_available_bikes
+16107,Benjamin Godard - Victor Hugo,32
+6015,André Mazet - Saint-André des Arts,34
+11037,Faubourg Du Temple - Republique,17
+9020,Toudouze - Clauzel,13
+11104,Charonne - Robert et Sonia Delauney,13
+12109,Mairie du 12ème,14
+7003,Square Boucicaut,23
+5001,Harpe - Saint-Germain,1
+14014,Jourdan - Stade Charléty,40
+17026,Jouffroy d'Abbans - Wagram,0
+17041,Guersant - Gouvion-Saint-Cyr,27
+10013,Alibert - Jemmapes,46
+9104,Caumartin - Provence,19
+14111,Cassini - Denfert-Rochereau,19
+6003,Saint-Sulpice,9
+13007,Le Brun - Gobelins,36
+5110,Lacépède - Monge,21
+6108,Saint-Romain - Cherche-Midi,15
+33006,André Karman - République,30
+42016,Pierre et Marie Curie - Maurice Thorez,20
+41301,Bois de Vincennes - Gare,46
+21010,Silly - Galliéni,0
+6021,Beaux-Arts - Bonaparte,8
+25006,Place Nelson Mandela,16
+10152,Gare du Nord - Place de Valenciennes,11
+17038,Grande Armée - Brunel,49
+7004,Raspail - Varenne,4
+5016,Thouin - Cardinal Lemoine,12
+11025,Froment - Bréguet,0
+15047,Morillons - Dantzig,52
+15028,Grenelle - Dr Finlay,28
+17025,Chazelles - Courcelles,0
+13101,Croulebarde - Corvisart,26
+20143,Ramponeau - Belleville,25
+14108,Le Brix et Mesmin - Jourdan,21
+31024,Romainville - Vaillant-Couturier,27
+47007,Liberté - Vert-de-Maisons,11
+17044,Porte de Saint-Ouen - Bessières,35
+31702,Pierre et Marie Curie - Julien Grimau,10
+15026,Bir Hakeim,28
+44017,Jules Guesde - Pont du Port à l'Anglais,16
+19033,Cambrai - Benjamin Constant,0
+17048,De Toqueville - Terrasse,0
+16118,Michel-Ange - Parent de Rosan,22
+43002,Lagny - Victor Basch,10
+19027,Serrurier,12
+21216,Louis Lejeune - Barbès,23
+15068,Général Martial Valin - Pont du Garigliano,11
+42027,Verdun - Pierre et Marie Curie,0
+22207,Rond-point du Dr Albert Schweitzer,19
+18015,Custine - Ramey,33
+8050,Boétie - Ponthieu,27
+92002,Théâtre des Amandiers - Palais des sports,10
+6029,Vaugirard - Monsieur le Prince,19
+20035,Pyrénées - Ménilmontant,23
+2017,Caire - Dussoubs,30
+9008,Tour d'Auvergne - Rodier,14
+7113,Berges de Seine - Musée d'Orsay,12
+7009,Assemblée Nationale,53
+10027,Dunkerque - Alsace,9
+8048,Marceau - Chaillot,12
+14013,Liard - Amiral Mouchez,0
+12031,Gabriel Lamé,0
+7011,Las Cases - Bourgogne,8
+18111,Félix Ziem - Armand Gauthier,18
+17010,Jonquière - Docteur Paul Brousse,29
+41303,Gare de Nogent-le-Perreux,11
+8016,Square Louis XVI,14
+48003,Youri Gagarine - Karl Marx,20
+16110,Octave Feuillet - Albéric Magnard,11
+18134,Ney - Porte de Clignancourt,6
+5005,Gay Lussac - Saint-Jacques,21
+43009,Place Jean-Spire-Lemaître,37
+8053,Place Georges Guillaumin,23
+9001,Bellefond - Poissonnière,13
+17032,Jean Oestreicher - Porte de Champerret,11
+21026,Sèvres - Général Leclerc,23
+10162,Alexandre Parodi - Quai de Valmy,22
+10115,Granges aux Belles,0
+13118,Regnault - Patay,29
+9035,Gare Saint-Lazare - Place de Budapest,24
+14002,Edgar Quinet - Raspail,9
+18024,Clignancourt - Ordener,25
+10029,Dunkerque - Rocroy,20
+7018,Ségur - d'Estrées,12
+9002,Abbeville - Faubourg Poissonnière,12
+5022,Boulangers - Cardinal Lemoine,18
+9106,Boudreau - Auber,1
+10161,Gare de l'Est - Faubourg-Saint-Martin,26
+17040,Pereire - Ternes,44
+9038,Douai - Bruxelles,25
+7020,Champ de Mars - Cler,29
+8009,Gare Saint-Lazare - Isly,3
+8032,Matignon - Faubourg Saint-Honoré,28
+19105,Ambroise Rendu - Porte Brunet,14
+12151,Gare de Lyon - Place Louis Armand,0
+6001,Institut de France,1
+17008,Porte Pouchet-Bessières,13
+15112,Vigée-Lebrun - Anselme Payen,24
+5020,Institut du Monde Arabe - Saint-Germain,24
+22409,Henri Barbusse - Stalingrad,8
+7025,Octave Gréard - Tour Eiffel,10
+31706,Château - République,21
+1001,Quai de l'Horloge - Pont Neuf,9
+9028,Moncey - Blanche,13
+9010,Rochechouart lamartine,18
+10107,Gare du Nord - Hôpital Lariboisière,44
+10025,Jemmapes - Ecluses Saint-Martin,9
+19015,Thionville - Ourcq,7
+17012,Mairie du 17ème,24
+17004,Legendre - Clichy,36
+19003,Quai de la Seine,14
+8036,Lisbonne - Monceau,29
+10008,Cité Riverin - Château d'Eau,6
+5018,Mutualité,20
+18107,Chartres - La Charbonnière,32
+9022,Rossini - Laffitte,20
+10105,Mazagran - Bonne Nouvelle,17
+20042,Pyrénées - Emmery,35
+12161,Diderot - Reuilly,39
+11027,Saint-Ambroise - Parmentier,5
+17043,Belidor - Gouvion-Saint-Cyr,5
+19026,Place de Rhin et Danube,9
+11002,Roquette - Thiéré,12
+8034,Berri - Haussmann,28
+11023,Saint-Maur - Roquette,38
+45003,11 Novembre 1918 - 8 Mai 1945,28
+31009,Place Du Général De Gaulle,20
+16039,Exelmans - Versailles,0
+17030,Pereire - Rennequin,0
+12111,Claude Decaen - Cannebière,6
+13014,Gare d'Austerlitz,0
+15067,Desaix - Edgar Faure,8
+19043,Delphine Seyrig - Général Leclerc,43
+5032,Panthéon - Valette,8
+14020,Cimetière de Montrouge,54
+41302,Charles de Gaulle - Beauté,43
+10016,Récollets - Square Villemin,14
+21032,Sèvres-Gallieni,27
+11047,Amelot - Saint-Sébastien,27
+6006,Notre-Dame-des-Champs - Stanislas,0
+15056,Place Balard,16
+12128,Pyramide - Ecole du Breuil,19
+8010,Liège - Moscou,13
+31022,Mairie de Montreuil,44
+19101,Square Simon Bolivar,19
+10111,Jemmapes - Grange aux Belles,3
+18003,Cimetière de Montmartre,21
+7014,Saint-François-Xavier,32
+11113,Richard Lenoir - Republique,53
+21212,Marne - Germain Dardan,17
+20015,Bagnolet - Orteaux,23
+33017,Anatole France - President Roosevelt,12
+15042,Henry Farman,8
+20112,Jourdain - Place des Grandes Rigoles,19
+8017,Rocher - Laborde,45
+43008,Fontenay - Libération,0
+19044,Grands Moulins de Pantin,42
+20037,Gambetta - Saint Fargeau,16
+41209,Cimetière,10
+33102,Gabriel Péri - Francisco Ferrer,8
+8045,Place de la Reine Astrid,2
+21312,Lucie Aubrac - Fort,14
+18011,Pajol - Place Herbert,0
+15105,Fédération - Suffren,15
+15104,Hôpital Européen Georges Pompidou,35
+13001,Port-Royal - Hôpital du Val-de-Grâce,14
+44006,Concorde - Stalingrad,8
+19120,Carducci - Place Hannah Arendt,25
+5004,Saint-Jacques - Val de Grâce,19
+19103,Manin - Carrières d'Amérique,12
+12114,Victor Hugo - Jeanne Jugan,21
+14138,Porte de Vanves,27
+11046,Place de la République - Voltaire,5
+46003,Conservatoire de Musique,8
+10017,Gare de l'Est - Fidélité,7
+48008,Guy Môquet - Parvis Georges Marchais,23
+18028,Championnet - Vauvenargues,0
+10024,Buisson Saint-Louis - Saint-Maur,11
+18031,Place Albert Kahn,16
+22202,Jean Marin Naudin - Stalingrad,20
+42014,Place Marcel Cachin,24
+10153,Gare du Nord - Denain,15
+15054,Lecourbe - Jean Maridor,7
+15106,Grenelle - Violet,11
+20131,Repos - Cimetière du Père Lachaise,0
+14008,Mouton Duvernet - Général Leclerc,31
+10042,Enghien - Faubourg Poissonnière,0
+1122,Pont-Neuf - Quai du Louvre,7
+7101,Raspail - Chomel,19
+14106,Marc Sangnier - Porte de Vanves,0
+18046,Etienne Jodelle - Saint Ouen,32
+21006,Marcelin Berthelot,0
+22406,Guy Môquet - Etienne Dolet,14
+35002,Jean Jaurès - Presles,0
+31102,Boissière - Etienne Dolet,17
+44013,Edouard Tremblay - Julian Grimau,16
+8054,Bertie Albrecht - Hoche,27
+14012,Sibelle - Alésia,23
+21005,Hôtel de Ville,19
+15109,Cevennes - Bergers,21
+21209,Molière - République,0
+13053,Chevaleret - Tolbiac,11
+35010,Hoche - Jean Lolive,15
+14124,David Weill - Parc Montsouris,19
+92008,Hôtel de Ville,32
+15110,Place Robert Guillemard,9
+18022,Marcadet - Barbès,0
+7002,Vaneau - Sèvres,27
+21008,Victor Hugo - Galliéni,26
+31008,François Debergue - Croix de Chavaux,1
+21015,Nationale - Place Jules Guesde,18
+44003,Gabriel Péri - Danielle Casanova,9
+16122,Route de la Muette - Porte de Neuilly,22
+41404,Carnot - Pâquerettes,9
+22203,Tertres - Fontaine,26
+41202,Gare Rer de Fontenay sous Bois,39
+42021,Raspail - Manufacture des Oeillets,19
+19018,Cité de la Musique,59
+31016,Lucie Aubrac - Franklin,32
+44004,Place de l'Eglise,11
+31708,Noisy le Sec - Jean-Baptiste Clément,19
+35020,Marcelle - Thalie,17
+25003,Henri Ste-Claire Déville - Paul Héroult,13
+20115,Louis Lumière - Porte de Bagnolet,14
+31003,Paris - Emile Zola,17
+22402,Jean Jaurès - Salvador Allende,34
+9116,Victoire - Chaussée d'Antin,23
+11030,Oberkampf - République,18
+17031,Place de la Porte de Champerret,20
+16008,Galilée - Kléber,31
+11039,Richard Lenoir - Jean-Pierre Timbaud,22
+17013,Legendre - Dulong,16
+1119,Cossonnerie - Sébastopol,5
+7021,Bosquet - Saint-Dominique,14
+11026,Chemin Vert - Saint-Maur,41
+13050,Quai Panhard et Levassor,37
+32604,Square du Théâtre du Garde-Chasse,43
+19024,Botzaris - Parc des Buttes Chaumont,9
+9014,Faubourg Montmartre - La Fayette,21
+15021,Joseph Liouville - Croix Nivert,53
+17105,Place Madeleine Daniélou,38
+5012,Estrapade - Ulm,4
+13051,Halle Freyssinet - Parvis Alan Turing,20
+11105,Parmentier - République,40
+20134,Lieutenant Chauré - Etienne Marey,19
+24001,Léonard de Vinci,23
+4108,Quai de Béthune - Pont de la Tournelle,19
+21403,Gare de Clamart,5
+21701,Larmeroux - Baudelaire,13
+18009,Jean-François Lépine - Stephenson,0
+5106,Cujas - Saint-Michel,17
+22003,Beffroy,18
+16038,Molitor - Chardon-Lagache,15
+41601,Général De Gaulle - Alouette,19
+14110,Abbé Carton - Plantes,13
+17125,Marie-Georges Picquart - Pereire,21
+16108,Sablons - Georges Mandel,33
+43005,Gare RER de Vincennes,2
+19032,Villette - Belleville,27
+16136,Théophile Gautier - François Millet,2
+31707,Edouard Vaillant - Galliéni,45
+19022,Marché Secrétan,0
+17042,Porte Maillot - Pereire,44
+35005,Quai de l'Aisne - Général Leclerc,10
+11024,Mairie du 11ème,43
+2111,Chabanais - Petits Champs,0
+5124,Ulm - Louis Thuillier,0
+14136,Auguste Cain - Jean Moulin,33
+15013,Volontaire - Lecourbe,0
+15034,Lakanal - Commerce,0
+8025,Miromesnil - La Boétie,32
+32302,Chemin Vert - Fraternité,17
+10014,Marseille - Beaurepaire,33
+9032,Mathurins - Auber,23
+5123,Saint-Germain - Thenard,24
+13002,Arago - Glacière,3
+42010,Mairie d'Ivry-sur-Seine,42
+15046,Parc Georges Brassens - Brancion,27
+22501,Théâtre,12
+11035,Parmentier - Abel rabaud,1
+46001,Place Paul Eluard,3
+16040,Exelmans - Michel-Ange,22
+22006,Pierret - Madrid,11
+17028,Reims - Raymond Pitet,30
+21301,Saint-Vincent - Verdun,15
+21112,Claude Debussy - Marc Bloch,2
+42302,Aristide Briand - Gare de Bagneux,16
+21110,Parc Roger Salengro,23
+19029,Seine - Flandre,17
+19016,Hautpoul - Jean Jaurès,25
+19013,Laumière - Petit,7
+32003,Wilson - Métallurgie,7
+21104,Madame de Sanzillon - Mozart,0
+13030,Italie - Tolbiac,0
+11042,Grand Prieuré - Crussol,47
+9005,Square d'Anvers,1
+7102,Mairie du 7ème,0
+11004,Charonne - Faubourg Saint-Antoine,0
+22101,Gare Routière,7
+42301,Gare Arcueil - Cachan,21
+7005,Raspail - Bac,29
+42504,Gare RER de Gentilly,1
+13124,Italie - Place d'Italie,0
+20121,Boyer - Ménilmontant,10
+21302,Aristide Briand - Place de la Résistance,7
+42015,Place Jean Ferrat,23
+19008,Flandre - Alphonse Karr,0
+20111,Villiers de l'Isle Adam - Pyrénées,10
+9021,Saint Georges - d'Aumale,11
+31010,Stalingrad - Désiré Chevalier,38
+13041,Porte d'Ivry,0
+5006,Saint-Jacques - Soufflot,13
+41402,Victor Hugo - Ecoles,7
+43003,Hôpital Bégin,4
+7110,Quai Anatole France - Musée d'Orsay,5
+20039,Belleville - Couronnes,50
+12009,Charenton - Diderot,14
+18012,Stephenson - Doudeauville,28
+11036,Jules Ferry - Faubourg du Temple Paris,44
+19125,Place de l'Édit de Nantes,22
+23009,Anatole France - Louise Michel,36
+11040,Temple - Jean-Pierre Timbaud,23
+21313,Guynemer - Séverine,11
+11007,Jean Macé - Faidherbe,57
+32303,Gaston Roussel - Commune de Paris,15
+15133,Sellier - Saint-Cloud,0
+8035,Bienfaisance - Place de Narvik,34
+12027,Montgallet - Charenton,0
+21305,Place Jacques Madaule,13
+10011,Bourse du Travail,9
+6013,Jacques Callot - Mazarine,0
+10113,Parmentier - Hôpital Saint-Louis,0
+28001,Richard Wallace - Place du 8 Mai 1945,7
+26007,Square Gilbert Thomain,8
+7015,Varenne,38
+33018,Edouard Poisson - Victor Hugo,17
+16111,Faustin Hélie - Desbordes-Valmore,28
+4003,Quai aux Fleurs - Pont Saint-Louis,5
+12115,Porte de Vincennes,24
+19005,Flandre - Riquet,0
+14021,Place de la Porte de Châtillon,51
+11115,Montreuil - Gonnet,18
+15025,Dupleix - du Guesclin,0
+12013,Montgallet - Reuilly,9
+17045,Place des Ternes,36
+35018,Ancien Canal - Hélène Brion,15
+18110,Departement - Pajol,12
+32602,Mairie des Lilas,40
+11009,Boulets - Voltaire,18
+7112,Quai d'Orsay - Invalides,0
+17011,Fragonard - Porte de Clichy,23
+43402,Place de Verdun,5
+12002,Lacuée - Lyon,9
+24002,Gare de Courbevoie,30
+16121,Jardin d'Acclimatation,6
+14117,Gare Montparnasse - René Mouchotte,0
+31709,Place de la Fraternité,22
+23001,Paul Vaillant Couturier - Chaptal,35
+13049,Vincent Auriol - Louise Weiss,17
+41102,Gare de Laplace,40
+20026,Gambetta - Hôpital Tenon,1
+17037,Bayen - Pereire,0
+19004,Quai de la Loire - Jean Jaurès,11
+12106,Gare de Lyon - Roland Barthes,0
+16124,Route de Sèvres - Porte de Bagatelle,40
+8033,Commandant Rivière,23
+17017,Gare de Pont-Cardinet,29
+33003,Bordier - Félix Faure,32
+5021,Jussieu - Fossés Saint-Bernard,0
+20043,Charonne - Avron,3
+33009,Félix Faure - Sadi Carnot,1
+16138,Saint-Cloud - Hippodrome,0
+22505,Mairie,4
+25005,18 juin 1940 - Buzenval,19
+13045,Jean Colly - Tolbiac,21
+19115,Porte de la Villette,19
+14034,Ouest - Château,0
+32010,Place aux Étoiles,34
+16018,Flandrin - Henri Martin,12
+11102,Alexandre Dumas - Voltaire,48
+15010,Square Cambronne,45
+12034,Pirogues de Bercy - Libourne,42
+42707,Place Jean-Baptiste Clément,20
+12038,Picpus - Louis Braille,27
+16034,Porte d'Auteuil,3
+14019,Sarrette - Général Leclerc,18
+16140,Longchamp - Suresnes,0
+12029,Dugommier,32
+20132,Réunion - Avron,22
+12001,Bastille - Biscornet,1
+5114,Claude Bernard - Arbalète,12
+20119,Square des Saint-Simoniens,23
+19019,Petit - Manin,16
+15126,Ernest Renan - Parc des Expositions,0
+42207,Place des Marseillais,32
+12030,Charenton - Wattignies,17
+31103,Gare Rosny-Bois-Perrier,18
+27002,Parc Pierre Lagravère,16
+92003,Chanzy - Sud-Est,17
+5119,Jussieu - Guy de la Brosse,33
+5121,Square René Viviani - Montebello,22
+35009,Jean Lolive - Parc Stalingrad,9
+31705,Champeaux - Gallieni,44
+8055,Courcelles - Place des Ternes,25
+33001,Victor Hugo - Magasins Généraux,30
+8002,Gare Saint-Lazare - Cour du Havre,20
+21109,Guichet - Jean Jaurès,13
+20120,Evariste Galois,19
+23701,Parvis Robert Schuman - Roger Salengro,11
+21502,Verdun - Place Henri IV,10
+14001,Edgar Quinet - Gaité,0
+31012,Place Carnot,12
+12126,Gravelle - Route du Bac,25
+10001,René Boulanger - Lancry,55
+17123,Clichy - Lechapelais,0
+16129,Ceinture du Lac Inferieure - Saint-Cloud,18
+35019,Anatole France - Jean Lolive,10
+14104,Boyer-Barret - Raymond Losserand,11
+20113,Piat - Parc de Belleville,18
+5116,Place Valhubert,6
+41604,Lagny - Joffre,27
+17018,Parc Monceau,8
+14018,Porte d'Orléans,37
+15017,Place Falguière,0
+43006,Vignerons - Minimes,14
+15029,Emeriau - Place de Brazzaville,40
+13104,Gare d'Austerlitz - Quai Saint-Bernard,11
+5002,Sommerard - Saint-Jacques,25
+18005,Tardieu - Chappe,13
+10005,Petites Ecuries - Faubourg Poissonnière,12
+12024,Gare de Bercy,2
+18045,Pierre Ginier - Clichy,12
+8012,Batignolles - Place de Clichy,35
+18020,Francoeur - Marcadet,16
+20136,Henri Chevreau - Couronnes,24
+5026,Pascal - Claude Bernard,13
+42023,Place Léon Gambetta,0
+8102,Lamennais - Washington,22
+16006,Lauriston - Copernic,17
+21013,Pierre Grenier - Pont de Billancourt,8
+32012,Carrefour Pleyel,20
+15055,Vasco de Gama,45
+23011,Bineau - Louise Michel,0
+21111,Professeur René Leriche - Général Leclerc,28
+21308,Bara - Henri Farman,28
+17007,Navier - Epinettes,4
+11114,Ledru-Rollin - Charonne,21
+20040,Parc de Belleville - Julien Lacroix,0
+42503,Vladimir Ilitch Lénine - Andrée Chedid,22
+17050,Batignolles - Abel Truchet,27
+10023,Gare de l'Est - Verdun,12
+12011,Charenton - Place du Col Bourgoin,0
+7001,Invalides - Duroc,19
+21105,Morice - Général Leclerc,14
+13102,Pitié-Salpêtrière,17
+10015,Lucien Sampaix - Récollets,35
+18141,Clignancourt - Sofia,0
+13026,Place Jean Delay,29
+23002,Pont de Levallois-bécon,36
+15033,Place Violet,25
+14130,Jonquoy - Didot,28
+41207,Place du Général de Gaulle,24
+7006,Quai Voltaire,0
+13043,Dunois - Clisson,39
+21019,Edouard Vaillant - Paul-Adolphe Souriau,9
+6018,Michelet - Assas,1
+12032,Porte Dorée,24
+15032,Félix Faure - Lourmel,52
+19037,Belleville - Porte des Lilas,27
+20109,Haxo - Surmelin,18
+10165,Gare de l'Est - Place du 11 Novembre 1918,36
+18032,Porte de Clignancourt,23
+13016,Primo Levi - Frigos,2
+6107,Place Alphonse Deville,6
+51003,Hôtel de Ville,27
+6103,Mézières - Rennes,44
+15038,Place Adolphe Cherioux - Vaugirard,55
+22005,Charles de Gaulle - Madrid,9
+19109,Tanger - Place du Maroc,13
+20036,Ménilmontant - Pelleport,13
+31019,Vincennes - Douy-Delcupe,34
+32014,Place du Cornillon - Stade de France,28
+11020,Belfort - Voltaire,35
+17124,Porte de Saint-Ouen - Henri Huchard,9
+17027,Place du Maréchal Juin - Péreire,20
+44012,Génie - Mozart,18
+19201,Petit - Georges Thill,0
+21119,Martissot - Victor Hugo,12
+48007,Parc Départemental des Hautes-Bruyères,27
+48012,Stalingrad - Henri Luisette,26
+1002,Victoria - Place du Chatelet,13
+10012,Vinaigriers - Magenta,14
+14122,Colonel Monteil - Brune,0
+44102,Verdun - Adrien Damalix,18
+9115,Milton - Manuel,20
+19039,Edouard Pailleron - Simon Bolivar,23
+17046,Mac-Mahon - Brey,15
+16032,Eglise d'Auteuil,17
+18113,Lepic - Armée d'Orient,12
+21003,Jean Jaurès - Jean Baptiste Clément,10
+22001,Château - Bineau,13
+17047,Courcelles - Pierre Demours,15
+18025,Mairie du 18ème,0
+17122,Bridaine - Lamandé,24
+20027,Porte de Ménilmontant,8
+9023,Laffitte - Italiens,31
+21306,Place Lafayette,0
+20021,Indre - Prairies,17
+16004,Université Paris Dauphine,0
+15108,Lourmel - Marie Skobtsov,14
+19040,Belleville - Télégraphe,32
+26001,Gare d'Asnières sur Seine,9
+11116,Faubourg St-Antoine - Place de la Nation,33
+6016,Danton - Serpente,13
+16123,Mahatma Gandhi,5
+41204,République - Danton,17
+19009,Cité des Sciences et de l'Industrie,9
+20137,Borrégo - Gambetta,0
+17121,Square des Epinettes,17
+47006,Les Planètes,5
+10020,Chabrol - d'Hauteville,4
+21703,Square du Carrefour de l'Insurrection,8
+11041,Square Saint-Ambroise,0
+21014,Hameau Fleuri - Marché,0
+18109,Pajol - Riquet,32
+19038,Lassus - Delouvain,8
+18029,Emile Blemont - Poteau,1
+21706,Jean Bleuzen - Square du 11 Novembre,39
+20118,Orteaux - Mouraud,20
+16021,François Ponsard - La Muette,20
+9031,Provence - Chaussée d'Antin,5
+11006,Ledru-Rollin - Place du Père Chaillet,22
+6030,Assas - Vaugirard,33
+20023,Pelleport - Belgrand,10
+18023,Ordener - Poissonniers,0
+15035,Place Etienne Pernet,0
+10009,Mairie du 10ème,0
+10166,Strasbourg - Saint-Denis,6
+18049,Porte d'Aubervilliers,3
+15049,Porte de Versailles,15
+31703,Sadi Carnot - François Mitterrand,23
+9117,Bellefond - Maubeuge,28
+35003,Gabrielle Josserand - Edouard Vaillant,4
+16026,Ranelagh - Mozart,0
+15031,Théâtre - Lourmel,0
+35017,Toffier Decaux - Cartier Bresson,1
+35014,Charles de Gaulle - Jean Lolive,20
+47005,Ecole Vétérinaire,5
+19127,Aubervilliers - Curial,8
+8056,Beaujon - Wagram,24
+15070,Balard - Montagne de la Fage,0
+11043,Place Pasdeloup,0
+14112,Méchain - Faubourg Saint-Jacques,15
+47004,Stade Auguste Delaune,4
+16029,Maison de Radio - France,18
+18008,Square Léon,27
+9026,Jean-Baptiste Pigalle - La Bruyere,15
+21001,Transvaal - Charles de Gaulle,18
+18033,Belliard - Damrémont,27
+16027,Mozart - Jasmin,53
+11010,Boulets - Faubourg Saint-Antoine,36
+20116,Haies - Réunion,0
+15002,Maine - Antoine Bourdelle,13
+21310,Kléber - Gouverneur Général Eboué,9
+23007,Président Wilson - Jean Jaures,14
+20016,Pyrénées - Maraîchers,13
+44010,8 Mai 1945 - 10 Juillet 1940,30
+20142,Mûriers - Père Lachaise,0
+10010,Place Jacques Bonsergent,17
+8019,Naples - Rome,2
+16043,Place de Passy,11
+32015,Gare RER,12
+1117,Pont Neuf - Rivoli,4
+10028,Gare du Nord - Dunkerque,20
+1120,Lavandieres Sainte Opportune - Rivoli,17
+7007,Musée d'Orsay,0
+16015,Bassano -  Iéna,12
+18043,Clichy - Place Blanche,14
+32004,Wilson - Landy,34
+12107,Diderot - Pierre Bourdan,18
+9017,Lallier - Trudaine,27
+10033,Gare du Nord - Saint-Vincent de Paul,21
+17022,Pereire - Place de Wagram,36
+12004,Traversière - Ledru-Rollin,17
+32001,Proudhon - Président Wilson,13
+20030,Ménilmontant - Père Lachaise,35
+6032,Sabot - Rennes,17
+42703,Fontainebleau - Edmond Michelet,43
+13103,Hôpital Pitié Salpêtrière,41
+16112,Chernoviz - Raynouard,29
+13046,Eugène Oudiné - Dessous Des Berges,22
+22102,Mont Valérien - Michel Salles,21
+15058,Place du Moulin de Javel,34
+8051,Batignolles - Rome,14
+4110,Neuve Saint-Pierre - Beautreillis,16
+20201,Eugène Reisz - Davout,0
+17102,Alfred Roll - Berthier,23
+14030,Pernety - Raymond Losserand,1
+15003,Gare Montparnasse - Vaugirard,0
+7008,Villersexel - Saint-Germain,1
+14028,Alésia - Suisses,0
+8001,Petit Palais,21
+32016,Place de la Porte de Paris,40
+6017,Sénat - Condé,0
+10114,Granges aux Belles - Hôpital Saint-Louis,18
+15107,Palais des Sports,8
+13122,Parc de Choisy,17
+10036,Aqueduc - Villette,22
+19041,Belleville - Pyrénées,20
+21114,Gustave Eiffel - Parc des Impressionnistes,20
+32017,Basilique,0
+32603,Calmette,27
+21024,Billancourt - Général Leclerc,8
+19023,Manin - Simon Bolivar,0
+2001,Greneta - Sebastopol,26
+19045,Macdonald - Césaria Evora,65
+4101,Bastille - Beaumarchais,11
+2013,Favart - Italiens,9
+21311,Parvis Corentin Celton,26
+15059,Parc André Citroën,29
+8038,François 1er - Montaigne,15
+8026,Messine - Place Du Pérou,5
+8015,Roquépine - Malesherbes,29
+12041,Bois de Vincennes,38
+7016,Surcouf - Université,15
+18138,Ney - Charles Hermite,15
+9118,Faubourg Poissonniere - Delta,32
+15040,Saint-Amand - Labrouste,31
+20019,Place du Maquis du Vercors,25
+21215,Verdier - Jean Jaurès,0
+45001,Hôtel de Ville,7
+31704,Jeanne Hornet - Girardot,0
+2010,Uzès - Montmartre,0
+7013,Duroc - Place de Breteuil,0
+4013,Vieille du Temple - Francs Bourgeois,0
+10163,Gare du Nord - Demarquay,28
+31023,Place François Mitterand,24
+33019,Madeleine Vionnet,0
+18042,Place Pigalle,18
+33020,Waldeck Rochet - Germaine Tillon,0
+18137,Poissonniers - Nord,17
+17116,Reims - Porte d'Asnières,0
+14006,Saint-Jacques - Tombe Issoire,21
+4011,Hôtel de Ville - Pont-Marie,0
+12108,Bercy,47
+31013,Centenaire - Sorins,41
+20017,Saint-Blaise - Mouraud,15
+14116,Romain Rolland,22
+18001,Damrémont - Caulaincourt,14
+32018,Franciade - Gabriel Péri,13
+11034,Parmentier - Fontaine au Roi,42
+15061,Square Desnouettes,20
+17016,Brochant - Square des Batignolles,20
+23008,Hôtel de Ville,9
+21108,Mairie de Clichy,0
+18019,Square Raymond Souplex,48
+15063,Convention - Saint-Charles,15
+11003,Keller - La Roquette,23
+6014,Pont de Lodi - Dauphine,12
+1016,Thérèse - Opéra,1
+7026,Place de Finlande,11
+18135,Ney - Porte de Montmartre,16
+9012,Rougemont - Poissonnière,20
+31001,Lagny - Auguste Blanqui,20
+15020,Mairie du 15ème,30
+41206,Place des Larris,30
+8104,Chateaubriand - Friedland,0
+21954,Val-Fleury,0
+19031,Manin - Crimée,13
+13114,Nationale - Marcel Duchamp,0
+12157,Fabre d'Eglantine - Place de la Nation,51
+41606,Pasteur - Gambetta,0
+11019,Charonne - Philippe-Auguste,22
+11101,Charles Delescluze,26
+16016,Paul Doumer - La Tour,31
+5019,Poissy - Saint-Germain,0
+13113,Vistule - Choisy,25
+31018,Gambetta - Michelet,27
+47002,Les Juilliottes,2
+33005,République - Henri Barbusse,22
+2110,Jeûneurs - Mulhouse,20
+1022,Danielle Casanova - Place Vendôme,20
+16041,Versailles - Claude Terrasse,12
+10164,Claude Vellefaux - Sambre et Meuse,28
+13019,Fernand Braudel - Vincent Auriol,0
+3101,Porte Saint-Martin,28
+22016,Charles de Gaulle - Sablonville,0
+11107,Faidherbe - Dahomey,28
+8049,Georges V - François 1er,0
+20103,Le Vau - Maurice Bertaux,23
+10201,Magenta - Chabrol,12
+8029,Place du Canada,23
+8105,François 1er - Lincoln,1
+2014,Daunou - Louis le Grand,6
+9113,Bleue - Trévise,23
+23302,Parc de Sceaux - Centre-Ville,13
+5030,Sorbonne - Ecoles,0
+11048,Place Mireille Havet,20
+6031,Pierre Sarrazin - Saint-Michel,0
+4109,Mornay - Sully,8
+2101,Bachaumont - Montmartre,31
+21952,Place Tony de Graaff,18
+8028,Arsène Houssaye - Champs-Elysées,22
+6027,Blaise-Desgoffe - Vaugirard,0
+12154,Square Georges Melies,0
+10026,Gare de l'Est - Chateau Landon,31
+42029,Stalingrad - Germaine Tailleferre,0
+14007,Ferrus - Saint-Jacques,0
+9015,Lamartine - Faubourg Montmartre,0
+19021,Mairie du 19ème,15
+14127,Odessa - Départ,21
+32019,Place du 8 mai 1945,30
+17104,Jardin Marguerite Long,17
+35008,Place de l'Eglise,21
+19030,Melun - Jean Jaurès,16
+15009,Suffren - Pérignon,26
+21004,Jean Jaurès - Reine,29
+22002,Argenson - Château,0
+11044,Square du Bataclan,18
+13022,Butte aux Cailles - Esperance,26
+20045,Louis Ganne - Davout,13
+11110,Roquette - Folie Regnault,38
+16031,Vignes - Boulainvilliers,0
+12127,Tremblay - Lac des Minimes,36
+12153,Terroirs de France - Lheureux,30
+21017,Place Marcel Sembat,0
+5028,Censier - Jardin des Plantes,18
+17005,Brochant - Clichy,46
+92004,Université,0
+18035,René Binet - Porte de Montmartre,12
+22401,Charles de Gaulle - Plateau de Vanves,32
+14016,René Coty - Parc Montsouris,50
+12033,François Truffaut - Saint Emilion,25
+12120,Lac Daumesnil - Saint-Maurice,40
+11012,Montreuil - Voltaire,1
+18142,Jessaint - Marx Dormoy,17
+18014,Léon - Doudeauville,8
+14003,Schoelcher - Raspail,23
+13110,Moulin de la Pointe,17
+42011,Quai Marcel Boyer - Victor Hugo,18
+23005,Gare de Clichy-Levallois,6
+12010,Daumesnil - Picpus,16
+48009,République - Auguste Perret,25
+15122,Place Charles Vallin,19
+21009,Le Corbusier - Jean Jaurès,25
+4107,Beaumarchais - Pas de la Mule,4
+21951,Place Centrale,19
+9013,Mairie du 9ème,10
+31017,Jean Moulin - Paul Doumer,15
+13047,Boutroux - Porte de Vitry,28
+23006,Jules Guesde - Alsace,20
+18114,Véron - Lepic,23
+20004,Commandant l'Herminier - Gallieni,11
+44103,Pont De Charenton,7
+22403,Pierre Brossolette - Adolphe Pinard,20
+13117,Stade Georges Carpentier,21
+92005,Gare de Nanterre Ville,37
+22103,Senard - Charles Blum,3
+92007,Pesaro - Préfecture,0
+22009,Charles de Gaulle - Orléans,25
+20117,Saint-Fargeau - Mortier,20
+14128,Gergovie - Vercingétorix,12
+13035,Choisy - Tolbiac,18
+8101,Londres - Amsterdam,18
+20047,Cours de Vincennes - Davout,1
+12125,Pyramide - Parc Floral,6
+31101,Jules Guesde - Laennec,16
+31026,Demi-Lune - Aristide Briand,17
+7024,Rapp - Place du Général Gouraud,0
+12129,Bois de Vincennes - Porte Jaune,32
+17001,Guy Môquet - Saint-Ouen,48
+19113,Pré Saint-Gervais - Lilas,18
+9016,Choron - Martyrs,7
+10039,Sambre et Meuse - Villette,24
+35004,Place du Président Salvador Allende,54
+19036,Hôpital Robert Debré,0
+33104,Square Edmond Pépin,18
+22010,Charles de Gaulle - Louis-Philippe,0
+8011,Clapeyron - Moscou,12
+13021,Boussingault - Tolbiac,20
+13020,Paul Klee - Place Augusta Holmes,26
+8004,Malesherbes - Place de la Madeleine,41
+11031,Jacquard - Ternaux,25
+19124,Alexander Fleming - Belvédère,26
+35011,Honoré d'Estienne d'Ovres - Grilles,9
+14113,Santé - Arago,35
+35015,Averroès - Aimé Césaire,11
+32021,Place du Front Populaire - George Sand,22
+9036,Athènes - Clichy,17
+15019,Paul Barruel - Vaugirard,32
+16007,Longchamp - Place d'Iéna,0
+15125,Parc Suzanne Lenglen,10
+10110,Louis Blanc - Jemmapes,26
+15060,Place de la Montagne du Goulet,0
+8013,Marignan - Champs-Elysées,0
+12006,Gare de Lyon - Van Gogh,30
+15131,Charles Lecocq - Lecourbe,24
+10037,Quai de Valmy,19
+13010,Place d'Italie - Vincent Auriol,28
+20002,Square de la rue Pixérécourt,6
+5029,Georges Bernanos - Port Royal,23
+12150,Bastille - Quai de la Rapée,13
+16014,Eylau - Trocadéro,14
+13515,Auguste Blanqui - Glacière,52
+13027,Mazagran - Pierre de Coubertin,9
+13048,Wurtz - Tolbiac,24
+41210,Hôtel de ville de Fontenay-sous-Bois,0
+17029,Pierre Demours - Laugier,27
+13039,Ivry - Simone Weil,12
+10004,Metz - Faubourg Saint-Denis,40
+19025,Botzaris - Crimée,0
+6024,Saint-Germain-des-Prés,2
+16009,Saint-Didier - Raymond Poincaré,11
+11103,Pelée - Alphonse Baudin,29
+16103,Traktir - Foch,19
+9029,Saint-Lazare - Place d'Estienne d'Orves,26
+21118,Neuilly - Petit,3
+21203,Place Jules Ferry,25
+5034,Censier - Santeuil,54
+21316,Cimetière Communal,22
+22013,Mairie de Neuilly sur Seine,23
+11109,Pierre Levée - Fontaine Timbaud,18
+14101,Gare Montparnasse - Edgar Quinet,27
+7111,Ecole Militaire - Place Joffre,24
+21115,Chancé Milly - Cimetière Communal Sud,18
+8008,Joseph Sansboeuf - Saint Lazare,2
+21029,Cours de l'Ile Seguin - Parc Billancourt,8
+15072,Place Fernand Forest,5
+21708,Marcel Yol - Jullien,17
+42304,Marc Sangnier - Division Leclerc,4
+15052,Convention - Vaugirard,6
+31021,Résistance - Hoche,29
+44002,Paul Vaillant-Couturier - Gare RER,8
+16115,Raffet - Montmorency,38
+15123,Commerce - Letellier,14
+21307,Victor Cresson - Telles de la Poterie,21
+21030,Fessart - Château,5
+11032,Jean-Pierre Timbaud - Vaucouleurs,46
+13121,Bruneseau - Quai d'Ivry,28
+22604,Hôtel de Ville de Fontenay-aux-Roses,0
+17033,Carnot - Général Lanrezac,24
+12105,Bercy - Villot,12
+10006,Petites Ecuries - Faubourg Saint-Denis,3
+9101,Cadet - La Fayette,8
+15043,Brancion - Lefebvre,9
+17039,Place Saint-Ferdinand,34
+11038,Temple - Charlot,37
+20009,Docteurs Déjérine - Pte de Montreuil,0
+21031,Cimetière communal,27
+5107,Pontoise - La Tournelle,13
+21213,Vanne - Général de Gaulle,19
+16101,Malakoff - Place de la Porte Maillot,27
+16024,Ranelagh - Maison de la Radio,15
+21702,Gare SNCF Vanves-Malakoff,0
+4111,Hôtel de Ville - Pont d'Arcole,10
+42305,Vanne - Saussaies,18
+19034,Porte de Pantin - Petits Ponts,0
+16003,André Maurois - Joseph et Marie Hackin,17
+21028,Pierre Lefaucheux - Traversière,30
+20122,Vitruve - Davout,20
+42003,Place de l'Insurrection d'Août 1944,16
+20007,Buzenval - Avron,1
+43401,Gare RER - Canadiens,32
+42004,Westermeyer - Paul Vaillant-Couturier,2
+15103,Cauchy - Cévennes,22
+21219,Amaury Duval - Gabriel Péri,34
+18017,Caulaincourt - Place Constantin Pecqueur,33
+22008,Charles de Gaulle - Graviers,16
+31025,Paul Signac - Aristide Briand,30
+8549,George V - Christophe Colomb,17
+13011,Hôpital - Campo-Formio,13
+32301,Mairie de Romainville,17
+5014,Jean Calvin - Tournefort,23
+16030,Place de Barcelone - Mirabeau,0
+32011,Stade de France,24
+13033,Porte d'Italie,5
+42701,Charles Gide - Fort de Bicêtre,26
+20108,Jardin de l'Hospice Debrousse,16
+16020,Place de la Porte de Passy,20
+13126,Place Nationale - Château-des-Rentiers,8
+10018,Square Alban Satragne,0
+8020,Batignolles - Beudant,40
+13128,Quai de la Gare - Pont de Bercy,0
+12043,Daumesnil - Hébrard,11
+17015,Place de Lévis,40
+18027,Damrémont - Ordener,26
+4001,Arcole - Notre-Dame,25
+15023,La Motte-Picquet - Grenelle,34
+23003,Président Wilson - Baudin,16
+4016,Lobau - Hôtel de Ville,26
+25001,Colmar - Victor Hugo,18
+11021,Charonne - Pierre Bayle,15
+14131,Jourdan - Monticelli,29
+17023,Porte d'Asnières,20
+19108,Gaston Tessier - Rosa Parks RER,24
+44007,Camille Groult - Guy Môquet,11
+42209,Place de l'Europe,2
+4002,Marché aux fleurs,7
+6008,Assas - Luxembourg,1
+14010,Jean Moulin - Place Victor et Hélène Basch,31
+42501,Raspail - Albert Schweitzer,15
+35001,Jean Jaurès - Ouvrières Pivéreuses,8
+15064,Javel - André Citroën,12
+13109,Brillat-Savarin - Küss,10
+12007,Gare de Lyon - Chalon,11
+32013,Université,24
+21204,Estienne d'Orves - Henri Ginoux,29
+35007,Benjamin Delessert - Jean Lolive,0
+43001,Paris - Laitières,16
+22206,Louis Pasteur - Albert Petit,29
+13106,Bobillot - Paulin Mery,15
+17003,Jacques Kellner - Saint-Ouen,15
+21217,Louis Rolland - République,24
+15030,Emeriau - Beaugrenelle,22
+9114,Faubourg Poissonnière - Dunkerque,26
+16011,Victor Hugo - La Pompe,37
+15062,Convention - Lourmel,20
+23010,Voltaire - Anatole France,14
+44101,Place Mongolfier,5
+41403,Gare RER - Malleret-Joinville,6
+47001,Place de la Gare,0
+31007,Paris - Désiré Préaux,41
+13032,Italie - Jardin Joan Miro,23
+22408,Place du 14 Juillet,15
+41101,Paul Doumer - Stalingrad,15
+8037,Monceau - Malesherbes,29
+27004,Gare de la Garenne-Colombes,21
+24003,Place Charles de Gaulle,27
+92001,Mairie de quartier du Plateau - Mont-Valérien,13
+23004,Paul Vaillant-Couturier - Victor Hugo,0
+43010,La Jarry - Place Diderot,21
+44009,Gare RER les Ardoines,49
+16002,Pergolèse - Malakoff,32
+17107,Berthier - Place Stuart Merril,29
+15057,Lucien Bossoutrot - Général Martial Vallin,27
+18007,Goutte d'or - Barbès,13
+46002,Rouget de Lisle,0
+19128,Quai de l'Oise - Aisne,19
+11017,Charonne - Bureau,35
+18006,Square Louise Michel,30
+21401,Mairie de Clamart,24
+18038,Rond-Point de la Chapelle,0
+15005,Place Jacques et Thérèse Tréfouël,39
+15004,Vaugirard - Pasteur,18
+13044,Place Jeanne d'Arc,26
+9004,Gérando - Rochechouart,19
+9027,Douai - Pierre Fontaine,19
+17108,Bessières - Porte de Clichy,17
+41205,Maréchal Joffre - Verdun,19
+4020,Place Edmond Michelet,5
+15022,Emile Zola - Fondary,23
+9024,Taitbout - La Fayette,42
+33015,Charles Tillon - Cimetière Communal,1
+12018,Saint-Mandé - Fabre d'Eglantine,17
+15311,Quai du Président Roosevelt - Pont Aval,17
+35006,Delizy - Louis Nadot,17
+15011,Cambronne - Villa Croix Nivert,30
+1021,Halles - Bourdonnais,2
+22015,Île de la Jatte,12
+15071,Suffren - Champ de Mars,16
+4021,Centre Georges Pompidou,11
+35012,Candale - Mehul,25
+17111,Lemercier - Cardinet,0
+44016,Balzac - Olympes de Gouges,17
+44005,Place Saint-Just,14
+17119,Toqueville - Cardinet,0
+16001,Portugais - Kléber,25
+18041,Rochechouart - Martyrs,13
+7017,La Motte-Picquet - La Tour Maubourg,20
+51002,Placette Grégoire Collas,13
+32601,Porte des Lilas - Faidherbe,27
+15102,Square Bela Bartok,0
+33016,Fort d'Aubervilliers,13
+10151,Gare du Nord - Faubourg Saint-Denis,11
+6012,Saint-Germain - Ciseaux,2
+12005,Crozatier - Faubourg Saint-Antoine,20
+27005,Gare du Stade,10
+17106,Berthier - Porte de Clichy,0
+9102,Londres - Place d'Estienne d'Orves,14
+12026,Place Ginette Hamelin,13
+21501,Pont de Suresnes,20
+21319,Esplanade du Foncet - Camille Desmoulins,20
+13009,Auguste Blanqui - Corvisart,21
+18044,Clichy - Douai,26
+92006,Place Nelson Mandela,25
+8057,Hoche - Tilsitt,24
+9006,Dunkerque - Trudaine,14
+21314,Chemin de Bretagne,22
+18030,Joseph Dijon - Ornano,28
+31005,Square Denise Buisson,33
+13516,Glacière - Soeur Catherine Marie,23
+5024,Place Monge,14
+14137,Maurice d'Ocagne - General Maudhuy,23
+12155,Rottembourg - Général Michel Bizot,37
+2108,Vivienne - Montmartre,29
+48010,Karl Marx,16
+10021,Marché Saint-Quentin,8
+9011,Geoffroy - Marie,0
+13025,Place de Rungis,22
+12028,Vivaldi - Antoine-Julien Hénard,24
+9034,Godot de Mauroy - Madeleine,6
+12035,Madagascar - Meuniers,25
+15039,Abbé Groult - Convention,0
+1003,Saint-Denis - Rivoli,21
+5115,Buffon - Jardin des Plantes,3
+41211,Louis Xavier de Ricard - Ancienne Mairie,32
+44011,Lebrun - Colonel Fabien,23
+4010,Saint-Antoine Sévigné,3
+7109,Place Joffre - Frédéric le Play,24
+21707,Square Etienne Jarousse,0
+4104,Sebastopol - Rambuteau,3
+4019,Cloître Saint-Merri - Renard,0
+51001,Gare d'Argenteuil,17
+8027,Mairie du 8ème,12
+8116,Champs-Elysees - Bassano,17
+21315,Jules Guesdes - Général de Gaulle,14
+2112,Bibliothèque Nationale,8
+6022,Marché Saint-Germain,12
+15006,Cherche-Midi - Hôpital Necker,33
+12101,Charenton - Prague,11
+21402,Place Aimé Césaire,22
+3102,Bourg l'Abbé - Saint-Martin,23
+15129,Hôpital Necker,35
+9007,Condorcet - Turgot,17
+14125,Dareau - Broussais,18
+21303,Jean Monnet - Iles,9
+33014,Parc Eli Lotar,17
+17024,Villiers - Batignolles,16
+13052,Leredde - Tolbiac,21
+41203,Stalingrad - Rigollots,0
+15127,Place Charles Michels,16
+23102,Hôtel de Ville,28
+15036,Croix Nivert - Square Saint-Lambert,26
+14032,Mairie du 14ème,27
+20105,Benoît Frachon - République,15
+15018,Dutot - Place Alleray,0
+33103,Jean Jaurès - Jules Jacquemin,18
+41401,Marne - Charles de Gaulle,4
+6002,Saint-Benoît - Jacob,10
+18039,Jardins d'Eole,17
+14031,Didot - Place de Moro-Giafferi,19
+20044,Davout - Volga,0
+16019,Porte de la Muette,0
+33012,Landy - Heurtault,0
+10019,Paradis - Hauteville,9
+13018,Bruant - Vincent Auriol,0
+14011,Place des Droits de l'Enfant,0
+11001,Richard Lenoir - Place de la Bastille,10
+11033,Bréguet - Sabin,5
+11011,Richard Lenoir - Voltaire,17
+17009,Paul Bodin - Clichy,24
+16005,Raymond Poincaré - Place Victor Hugo,1
+15008,Sèvres - Lecourbe,47
+20022,Porte de Bagnolet,0
+18026,Ruisseau - Ordener,22
+5007,Ecoles - Carmes,0
+14026,Plantes - Moulin Vert,2
+16105,Crevaux - Bugeaud,0
+26004,Gare RER les Grésillons,6
+11112,Jules Vallès - Charonne,15
+16036,Porte Molitor,45
+42505,Charles Frérot - Albert Guilpin,5
+1020,Cambon - Rivoli,1
+12036,Reuilly - Place Felix Eboue,26
+6010,Chevreuse - Montparnasse,6
+8044,Alfred de Vigny - Place du Général Brocard,31
+8031,Jean Mermoz - Champs-Elysées,0
+1006,Grande Truanderie - Saint-Denis,18
+12015,Place de la Nation - Picpus,0
+18139,Poissonniers - Championnet,13
+16012,Flandrin - Longchamp,29
+8117,Place de la Madeleine - Royale,5
+4006,Bourdon - Pont Morland,3
+19110,Square Claude Bernard,14
+8103,Artois - Berri,7
+22201,Henri Ravera - Gabriel Péri,23
+3008,Perle - Vieille du Temple,23
+5015,Epée de Bois - Mouffetard,26
+10032,Claude Vellefaux - Hôpital Saint-Louis,23
+48004,Maxime Gorki - Louis Aragon,7
+45002,Roger Salengro - Général de Gaulle,5
+16042,Murat - Porte de Saint-Cloud,28
+15001,Gare Montparnasse - Arrivée,1
+15128,Cadix - Hameau,35
+44014,Camille Risch - Paul Armangot,17
+12037,Reuilly - Daumesnil,30
+22012,Madeleine Michelis - Roule,0
+20001,Place de la Nation - Charonne,32
+47003,Charentonneau - Maisons Alfort,5
+18004,Place des Abbesses,8
+20034,Sorbier - Ménilmontant,17
+16013,Mairie du 16ème,31
+21309,Mairie d'Issy les Moulineaux,16
+9009,Square Montholon,10
+20104,Louis Lumière,12
+14103,Maine - Liancourt,0
+20008,Pyrénées - Avron,0
+10038,Place du Colonel Fabien,19
+7012,Cité Vaneau,10
+18034,Leibniz - Jean Dollfus,0
+6104,Herschel - Observatoire,26
+20024,Gambetta - Père Lachaise,26
+10034,Louis Blanc - La Chapelle,16
+12019,Gare de Reuilly - Picpus,6
+16102,Pergolèse - Marbeau,22
+18140,Porte de Clignancourt - Ney,9
+14135,Jourdan - Cité Universitaire,20
+17019,Phalsbourg - Villiers,0
+14036,Boulard - Daguerre,32
+9037,Parme - Clichy,23
+3010,Beaubourg - Michel-le-Comte,0
+13005,Cordelières - Arago,0
+12156,Niger - Soult,16
+16037,Molitor - Michel-Ange,33
+8110,Gare Saint-Lazare - Stockholm,0
+1007,Turbigo - Française,0
+19002,Centquatre,27
+13123,Bibliothèque Nationale de France,42
+41405,Place de l'Europe,6
+19010,Emile Reynaud - Porte de la Villette,12
+3011,Turbigo - Réaumur,15
+22301,Chausson - Gabriel Péri,4
+15132,Bargue -  Dutot,12
+21953,Gare de Bellevue,0
+3001,Beaumarchais - Saint-Gilles,37
+20006,Pyrénées - Plaine,7
+2015,Louis le Grand - Italiens,0
+12112,Charenton - Jardiniers,0
+19046,Porte de Pantin,17
+21506,Maurice Payret-Dortail,18
+4103,Archives - Rivoli,7
+20029,Frères Flavien - Porte des Lilas,19
+3005,Sainte-Elisabeth - Turbigo,19
+22503,Joffre - Aigle,16
+1102,Française - Etienne Marcel,17
+22303,Lucien Lanternier - Le Luth,10
+13017,Nationale - Vincent Auriol,29
+2002,Etienne Marcel - Montorgueil,0
+3012,Square Emile - Chautemps,15
+2021,Cléry - Montmartre,36
+2005,Montmartre - Etienne Marcel,12
+19129,Solitaires - Place des Fêtes,28
+3009,Temple - Haudriettes,1
+14132,Bézout - Général Leclerc,22
+26005,Hôtel de Ville,4
+14022,Didot - Mariniers,31
+24006,Adolphe Lalyre - Armand Silvestre,31
+2003,Saint-Denis - Réaumur,29
+23702,Hôtel de Ville,0
+12020,Cours de Vincennes - Soult,45
+13125,Gare d'Austerlitz - Pont Charles de Gaulle,43
+19012,Lally-Tollendal - Armand Carrel,21
+22502,Kléber - National,0
+15111,Olivier de Serres - Leriche,11
+3006,Mairie du 3ème,0
+21507,Gardenat-Lapostol - Velettes,15
+4014,Blancs-Manteaux - Archives,0
+14023,Adolphe Pinard - Victor Hugo,41
+5122,Saint-Michel - Luxembourg,0
+3004,Place de la République - Temple,1
+1014,Rivoli - Musée du Louvre,1
+44001,Quai Jules Guesde - Saint-Simon,30
+22504,Château - République,15
+9111,Victoire - Laffitte,10
+48005,Eugène Varlin - Place de la Paix,18
+4005,Quai des Célestins - Henri IV,11
+41208,Alouettes - Maréchal de Lattre de Tassigny,10
+3002,Saint-Gilles - Turenne,2
+4015,Mairie du 4ème,28
+3003,Fille du Calvaire - Turenne,8
+4017,Place de l'Hôtel de Ville,5
+4012,Tiron - Rivoli,0
+10041,Gare du Nord - La Chapelle,14
+4009,Village Saint-Paul,24
+19111,Cesaria Evora - Rosa Parks,29
+26006,Bas - Gabriel Péri,13
+2012,Choiseul - Quatre Septembre,25
+12163,Hippodrome Paris-Vincennes,0
+42704,Mairie du Kremlin-Bicêtre,0
+14133,Froidevaux - Boulard,26
+16044,Porte de Saint Cloud - Parc des Princes,25
+18136,Poulet - Barbès,20
+42026,Barbès - Monique Maunoury,32
+2004,Square Pierre Lazareff,5
+1012,Jean-Jacques Rousseau - Deux Ecus,9
+12164,Stade Pershing,0
+4018,Saint-Bon - Rivoli,14
+12165,Champs de Manoeuvre - Cartoucherie,0
+21505,Édouard Vaillant - Place Jean Jaurès,21
+2016,Aboukir - Alexandrie,17
+1017,Saint-Honoré - 29 juillet,4
+13054,Pau Casals - Neuve Tolbiac,5
+31104,Mairie de Rosny-sous-Bois,24
+19130,Place Paul Delouvrier,26
+22506,Gare des Vallées,14
+13038,Choisy - Malmaisons,16
+27001,Square Victor Basch,14
+2009,Filles Saint-Thomas - Place de la Bourse,46
+9039,Chaussée d'Antin - Haussmann,1
+2008,Mairie du 2ème,1
+14134,Château - Place de Catalogne,29
+1026,Place du Lieutenant Henri Karcher,14
+23101,Grande Rue - Europe,13
+1018,Alger - Rivoli,11
+1025,Oratoire - Rivoli,3
+1116,Ventadour - Opéra,8
+18112,Arthur Ranc - Hôpital Bichat,4
+22601,Marx Dormoy - Château Sainte-Barbe,14
+6026,Saint-Placide - Cherche Midi,54
+42018,Amédée Huon - Fort d'Ivry,23
+1023,Saint-Honoré - Musée du Louvre,8
+12166,Parc Floral du Bel Air,0
+17021,Jouffroy d'Abbans - Villiers,1
+5003,Le Goff - Gay-Lussac,0
+6007,Bréa - Raspail,16
+42028,Stalingrad - Ludwig Van Beethoven,0
+3007,Archives - Pastourelle,9
+31020,Résistance - Parmentier,29
+22603,Place de la Division Leclerc,22
+12113,Cardinal Lavigerie,0
+1024,Coquillière - Louvre,16
+42019,Lampes,16
+2006,Place des Victoires,15
+1013,Place du Palais Royal,47
+2020,Danielle Casanova - Opéra,12
+9019,Victor Massé - Jean-Baptiste Pigalle,13
+16010,Belles Feuilles - Place de Mexico,21
+2109,Réaumur - Montmartre,16
+23042,André Theuriet - Blagis,0
+1015,Place André Malraux,12
+1008,Les Halles - Saint-Eustache,17
+32020,Jules Guesdes - Carnot,10
+19118,Simon Bolivar - Henri Turot,0
+21011,Silly - Louis Blériot,15
+44008,Youri Gagarine - Commune de Paris,17
+23301,Les Blagis,18
+12016,Saint-Mande - Picpus,23
+20010,Sorbier - Gasnier-Guy,23
+23103,Manufacture Nationale,14
+20140,Paganini - Davout,13
+2022,Saint-Fiacre - Poissonière,0
+20048,Bagnolet - Place Saint-Blaise,0
+23303,Gare de Robinson,10
+45004,République - Louis Loucheur,30
+42022,Gare RER - Maurice Grandcoing,17
+17020,Jouffroy d'Abbans - Malesherbes,24
+5027,Gobelins - Port-Royal,27
+23703,Gare de Chaville Rive Gauche,11
+42024,Danielle Casanova - Ledru-Rollin,22
+21704,Place du Maréchal de Lattre de Tassigny,8
+19121,Belleville -  Pré Saint-Gervais,17
+19114,Manin - Secrétan,19
+12123,Château de Vincennes,0
+24004,Paix - Verdun,24
+21002,Place Denfert-Rochereau,5
+8018,Saint-Augustin,0
+13024,Bobillot - Tolbiac,28
+21022,Dôme - République,14
+13015,Chevaleret - Louise Weiss,24
+11022,Roquette - Auguste Laurent,11
+19006,Mathis - Flandre,0
+20003,Pyrénées - Cours de Vincennes,3
+15024,Suffren - La Motte-Piquet,21
+23041,Général Leclerc - Bièvre,18
+13116,Place du Docteur Yersin,47
+9025,Taitbout - Châteaudun,0
+11111,Léon Frot - Charonne,4
+13006,Duméril - Jeanne d'Arc,32
+12119,Dom-Pérignon - Gravelle,1
+15069,Félix Faure - Convention,30
+15041,Franquet - Labrouste,1
+48006,Maxime Gorki - Paul Vaillant-Couturier,16
+15012,Cambronne - Mademoiselle,0
+18016,Francoeur - Caulaincourt,29
+19117,Euryale Dehaynin - Loire,14
+18010,Riquet - Marx Dormoy,22
+15053,Lecourbe - Convention,32
+10003,Hauteville - Bonne Nouvelle,11
+8040,Pierre Charron - Champs-Elysées,27
+8052,Balzac - Champs Elysées,20
+41103,Place de la vache noire,22
+17036,Place Tristan Bernard,22
+41602,Place Charles Digeon,19
+13028,Gouthière - Poterne des Peupliers,20
+11014,Place de la Nation - Taillebourg,9
+14027,Gergovie - Alésia,0
+16025,Jean de la Fontaine - Boulainvilliers,0
+20110,Gambetta - Tourelles,1
+42303,Place Eustache Deschamps,3
+20032,Square des Amandiers,0
+48002,LCL Campus - Place Oscar Niemeyer,31
+41605,Général De Gaulle - Vivien,20
+12102,Bercy - Traversiére,13
+18047,St-Ouen - Lamarck,37
+20012,Buzenval - Vignoles,15
+19119,Edouard Pailleron - Bouret,22
+13120,Pierre Joseph Desault,0
+35013,Guillaume Tell - Parc Henri Barbusse,0
+20020,Pyrénées - Charles Renouvier,0
+15050,Dominique Pado - Croix Nivert,17
+13036,Olympiades,20
+24005,Edith Cavell - Volta,21
+43007,Hôtel de Ville de Vincennes,21
+14004,Port Royal - Hôpital Cochin,22
+12008,Hector Malot - Daumesnil,41
+14035,Maine - Jean Zay,42
+22404,Pierre Brossolette - 12 Février 1934,18
+14005,René Coty - Place Denfert-Rochereau,11
+14009,Tombe Issoire - René Coty,0
+16017,Siam - La Pompe,15
+18021,Marcadet - Ramey,12
+16116,George Sand - Jean de La Fontaine,21
+15045,Porte de la Plaine,28
+20013,Alexandre Dumas - Place de la Réunion,8
+5033,Saint-Séverin - Saint-Michel,24
+21021,Enfants du Paradis - Peupliers,1
+18108,Evangile - Aubervilliers,0
+25004,Marcel Pourtout - Édouard Manet,8
+12022,Sahel - Général Michel Bizot,20
+15027,Duhamel - André Gide,0
+21023,Ancienne Mairie - André Morizet,8
+8046,Marceau - Président Wilson,15
+7023,Bourdonnais - Tour Eiffel,5
+31105,Lavoisier - Missak Manouchian,0
+17117,Pereire - Saussure,0
+42205,Place Aristide Briand,1
+20014,Charonne - Alexandre Dumas,13
+43004,Montreuil - République,0
+8007,Rome - Provence,0
+7010,Constantine - Université,61
+17006,Guy Môquet - Compoint,3
+17110,Legendre - Nollet,28
+6025,Assas - Rennes,0
+31701,Mairie de Bagnolet,22
+19102,Rampal - Belleville,16
+11029,Ménilmontant - Oberkampf,36
+20106,Mairie du 20ème,3
+20005,Reynaldo Hahn - Lagny,12
+24007,Jean-Baptiste Charcot - Sainte-Geneviève,12
+15114,Pasteur - Cotentin,27
+13055,M.- A. Lagroua Weill-Hallé -  F. Dolto,46
+19014,Lorraine - Jean Jaurès,0
+12122,Bois de Vincennes - Polygone,1
+15120,Colonel Pierre Avia,0
+18101,Championnet,5
+21205,Arthur Auger - Jean Jaurès,19
+21207,Verdier - République,0
+16033,Marché d'Auteuil,0
+6028,Quatre Vents - Carrefour de l'Odéon,0
+15044,Dantzig - Lefebvre,0
+22014,Victor Hugo - Bineau,19
+8003,Galilée - Vernet,1
+15014,Volontaires - Vaugirard,0
+16023,Passy - Place du Costa Rica,17
+21027,Fief - République,21
+11028,Guillaume Bertrand - République,34
+6004,Regard - Rennes,32
+10031,Louis Blanc - Aqueduc,34
+11016,Philippe-Auguste,40
+12040,Porte de Charenton,57
+25002,Hôtel de Ville de Rueil-Malmaison,13
+15113,Arsonval - Falguière,1
+20033,Etienne Dolet - Place Maurice Chevalier,1
+18018,Carpeaux - Place Jacques Froment,12
+6020,Place Saint-André des Arts,19
+16022,Jean Bologne - Passy,17
+13013,Saint-Marcel - Hôpital,15
+20011,Pyrénées - Dagorno,18
+14025,Jacquier - Didot,0
+13008,Place d'Italie - Soeur Rosalie,35
+8039,Colisée - Champs-Elysées,3
+6005,Montparnasse -  Square Ozanam,0
+13023,Bobillot - Moulin des Prés,19
+21007,Rond-Point Rhin et Danube,41
+19007,Flandre - Ourcq,12
+21016,Point du Jour - Jean Jaurès,8
+5105,Geoffroy-Saint-Hilaire - Saint-Marcel,1
+19001,Crimée - Ourcq,41
+19123,Metz - Marne,11
+12017,Saint-Mandé - Docteur Arnold Netter,25
+21107,Bertrand Sincholle - Henri Barbusse,14
+16104,Paul Valery - Victor Hugo,28
+5031,Lacépède - Linné,43
+22007,Commandant Charcot - Bretteville,0
+12039,Général Michel Bizot - Claude Decaen,26
+13037,Ivry - Baudricourt,20
+11018,Saint-Maur - République,32
+6009,Guynemer - Jardin du Luxembourg,23
+16139,Suresnes - Muette à Neuilly,0
+27006,Victor Hugo - Gare,0
+14139,Pierre - Larousse,27

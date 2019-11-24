@@ -1,0 +1,1 @@
+CREATE TABLE velibs (station_id integer, station_name varchar, nb_available_bikes integer);
